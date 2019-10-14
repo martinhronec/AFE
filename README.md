@@ -9,6 +9,6 @@
 |Oct 23	|	??	|	(ch.5) ML basics	
 |Nov 6  |	Marek, Nicolas	|	(ch.6) Deep FeedForward Networks	
 |Nov 20	|	??	|	(ch.7) Regularization for Deep Learning	
-|Dec 4	|	??	|	(ch.8) Optimization of training Deep model			
+|Dec 4	|	Martin, Luboš	|	(ch.8) Optimization of training Deep model			
 |Dec 18	|	??	|	TBA		
 |Jan X	|	Jozo	|	5 minutes updates on our research
