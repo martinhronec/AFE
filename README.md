@@ -6,7 +6,7 @@
 |------|------|--------|
 |Oct 2	|	Jozo	|	5 minute research updates		
 |Oct 9	|	Jozo, Lukas	|	(ch.4) Numeric computation	
-|Oct 23	|	??	|	(ch.5) ML basics	
+|Oct 23	|	Lukas, Lucka	|	(ch.5) ML basics	
 |Nov 6  |	Marek, Nicolas	|	(ch.6) Deep FeedForward Networks	
 |Nov 20	|	Matěj, Pepa	|	(ch.7) Regularization for Deep Learning	
 |Dec 4	|	Martin, Luboš	|	(ch.8) Optimization of training Deep model			
