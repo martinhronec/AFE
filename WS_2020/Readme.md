@@ -7,4 +7,4 @@
 |Nov 4   |  Matej Nevrla \ Emma Haas |   Frantisek \ Lenka   | 
 |Nov 18  | Martin \ Lubos |   Lubos \ Martin  | Quantile optimizer in action, ML Distributions
 |Dec 2   | Jarda P \ Lenka Nechvatalova | Jan \ Josef | 
-|Dec 16  | Jan Sila \ Lukas Petrasek | Nicloas F. \  Mate›j | 
+|Dec 16  | Jan Sila \ Lukas Petrasek | Nicloas F. \  Matej | 
